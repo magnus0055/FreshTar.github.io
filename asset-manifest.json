@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FreshTar.github.io/static/css/main.4ba7521d.css",
+    "main.js": "/FreshTar.github.io/static/js/main.47bf0993.js",
+    "static/media/video.mp4": "/FreshTar.github.io/static/media/video.8870fed3a38d0f4e0446.mp4",
+    "static/media/2.png": "/FreshTar.github.io/static/media/2.61d77e836ae5ca1744d9.png",
+    "static/media/14623.jpg": "/FreshTar.github.io/static/media/14623.11899938d3a777f64563.jpg",
+    "static/media/4.png": "/FreshTar.github.io/static/media/4.cfa6ea6199ba949bf021.png",
+    "static/media/webd2.jpg": "/FreshTar.github.io/static/media/webd2.f54b289e4a27228aba43.jpg",
+    "static/media/3.png": "/FreshTar.github.io/static/media/3.72bb80e1b03421aa72c7.png",
+    "static/media/1.png": "/FreshTar.github.io/static/media/1.d7028b7c8d9fc7a01545.png",
+    "static/media/appd.jpg": "/FreshTar.github.io/static/media/appd.10415744af63cfffdcf2.jpg",
+    "static/media/5.jpg": "/FreshTar.github.io/static/media/5.093a14f621e58240ddb0.jpg",
+    "static/media/js.png": "/FreshTar.github.io/static/media/js.ba0a928588f389c91981.png",
+    "static/media/css.png": "/FreshTar.github.io/static/media/css.74ff0b5fd86f9eadddd3.png",
+    "static/media/react.png": "/FreshTar.github.io/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/html.png": "/FreshTar.github.io/static/media/html.e77138c4c431579d25d0.png",
+    "static/media/c.png": "/FreshTar.github.io/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/cc.png": "/FreshTar.github.io/static/media/cc.21f5ba2fb28558f04e5e.png",
+    "static/media/hr.png": "/FreshTar.github.io/static/media/hr.eda906ea9c4957f25a47.png",
+    "index.html": "/FreshTar.github.io/index.html",
+    "main.4ba7521d.css.map": "/FreshTar.github.io/static/css/main.4ba7521d.css.map",
+    "main.47bf0993.js.map": "/FreshTar.github.io/static/js/main.47bf0993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba7521d.css",
+    "static/js/main.47bf0993.js"
+  ]
+}
